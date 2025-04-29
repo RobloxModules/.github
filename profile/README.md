@@ -3,6 +3,7 @@
   <h1 align="center">RobloxModules</h1>
 </p>
 
-RobloxModules is a Github Organization dedicated to storing and sharing Module Scripts for Roblox Studio to be used by Roblox developers.
+RobloxModules is a Github Organization dedicated to storing and sharing Module Scripts for Roblox Studio to be used by Roblox developers.<br>
+RobloxModules intends to provide convienence with public scripts that can easily integrate into any project that needs one, no matter the size.
 
-RobloxModules is not affiliated in any way with the Roblox Corporation, the company behind Roblox
+RobloxModules is not affiliated in any way with the Roblox Corporation, the company behind Roblox and Roblox Studio.
